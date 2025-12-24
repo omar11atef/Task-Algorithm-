@@ -21,7 +21,12 @@
 
 ## 🚀 How to Run
 
-### 1. Clone the Repository
-```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+2. Install Flask (if not already installed)
+pip install flask
+
+3. Run the Application
+python app.py
+
+4. Open in Browser
+
+Go to: http://127.0.0.1:5000
